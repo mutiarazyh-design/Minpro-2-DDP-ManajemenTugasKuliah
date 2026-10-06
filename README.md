@@ -10,7 +10,7 @@ Program ini merupakan Sistem Manajemen Tugas Kuliah yang berfungsi untuk mengelo
 #Penjelasan Alur Flowchart:
 
 
-<img width="1504" height="1753" alt="Flowchart Mini Project 2_Sistem Manajemen Tugas Kuliah" src="https://github.com/user-attachments/assets/2e49b6da-f8b3-4357-8f8e-4fc2c1391aca" />
+<img width="1504" height="1752" alt="Flowchart Mini Project 2_Sistem Manajemen Tugas Kuliah" src="https://github.com/user-attachments/assets/9283b04f-d78f-40c0-8b2d-e54ab2823e7b" />
 
 
 Alur program diawali dengan start, kemudian pengguna melakukan login dengan memasukkan username dan password. Sistem memeriksa kesesuaian data yang dimasukkan. Jika data login tidak sesuai, sistem menampilkan pesan kesalahan dan pengguna kembali ke halaman login. Jika data benar, sistem memeriksa role pengguna.
